@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/aksha/OneDrive/Desktop/LTTS/Module1/day1",
-      "program": "c:/Users/aksha/OneDrive/Desktop/LTTS/Module1/day1/build/Debug/outDebug",
+      "cwd": "c:/Users/aksha/OneDrive/Desktop/LTTS/Module1",
+      "program": "c:/Users/aksha/OneDrive/Desktop/LTTS/Module1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
